@@ -1,0 +1,66 @@
+---------------GIT BUSH------------------
+
+CTRL + L - listni tozalab beradi yozilgan kodlani
+
+git config --list - git configlrni listni korish 
+
+git user.name - username koriw
+
+git user.email - email koriw
+
+git config --global user.name - username add qilish
+
+git config --global email.name - email add qilish
+
+cd Desktop - desktopa kirirsh
+
+mkdir - papka sazdat qilish
+
+start . - projectini faylini ochish
+
+git init - yengi project ocilganda birnici qadam faqat bir marta
+
+git status - statusni korish
+
+touch index.html - fayl add qilish misol ucun index.html index.js main.css
+
+rm index.html - fayl ocrib tawalaw misol ucun index.html index.js main.css
+
+git add..–loyihadagi yangi fayllar, o'zgarishlar va o'chirilishlarni xotiraga olish uchun naybatga qo’yiladi
+       
+git add faylnomi - bitalab add qilish 
+       
+git add . - hamasni add qilish
+                  
+git commit -m"Added 3 new files" - gitga coment qilish
+
+git log - istoriya git
+
+git checkout--
+
+git checkout--.
+
+git checkout maxsuskod bu yani commitni kodi – loyihamizning xohlagan versiyasida sayr qilishimiz mumkin
+
+git checkout master-ayni oxirgi ishlayotgan versiya
+
+git branch - branchlani hamsni korish
+
+git brach main - branch add qilish
+
+git checkout master - branchdan bowqa branchga otish
+
+git merge master - kodlani merg qilish
+
+---------------GIT BUSH------------------
+
+---------------GITHUB--------------------
+
+git remote add origin https://github.com/Abrorxon158/gitTutorial.git - gitga project joylash
+
+git push -u origin master
+
+
+
+
+
